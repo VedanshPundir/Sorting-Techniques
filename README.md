@@ -96,6 +96,6 @@ Understanding the time and space complexities of each sorting algorithm is cruci
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/sorting-algorithms.git
+   git clone https://github.com/VedanshPundir/Sorting-Techniques.git
    cd sorting-algorithms
 
