@@ -97,5 +97,5 @@ Understanding the time and space complexities of each sorting algorithm is cruci
 
    ```bash
    git clone https://github.com/VedanshPundir/Sorting-Techniques.git
-   cd sorting-algorithms
+   cd Sorting-Techniques
 
